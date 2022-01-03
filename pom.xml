@@ -130,7 +130,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-aop</artifactId>
-            <version>4.3.11.RELEASE</version>
+            <version>5.2.18.RELEASE</version>
             <scope>provided</scope>
         </dependency>
 
@@ -301,7 +301,7 @@
                         </goals>
                         <configuration>
                             <rules>
-                                <dependencyConvergence />
+                                <dependencyConvergence/>
                             </rules>
                         </configuration>
                     </execution>
